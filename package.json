@@ -1,0 +1,21 @@
+{
+  "name": "dragon-fruit",
+  "displayName": "dragon fruit",
+  "description": "A dark theme with pink and green colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dragon fruit tree top house",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dragon fruit tree top house-color-theme.json"
+      }
+    ]
+  }
+}
