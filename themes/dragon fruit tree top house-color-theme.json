@@ -1,10 +1,74 @@
 {
 	"name": "dragon fruit tree top house",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#121212",
+		"editor.foreground": "#F2BAD1",
+		"activityBarBadge.background": "#5EA01A",
+		"sideBarTitle.foreground": "#F2BAD1",
+		"editor.wordHighlightBackground": "#121212",
+		"editor.wordHighlightBorder": "#DEF7EF",
+		"editor.wordHighlightStrongBorder": "#F2BAD1",
+		"editor.wordHighlightStrongBackground": "#121212",
+		"editor.findMatchBackground": "#121212",
+		"editor.findMatchBorder": "#F2BAD1",
+		"editor.findMatchHighlightBorder": "#DEF7EF",
+		"editor.findMatchHighlightBackground": "#121212",
+		"editorBracketMatch.border": "#888CCC",
+		"editorWarning.foreground": "#FFDBA7",
+		"editorError.foreground": "#ff0000",
+		"editorCursor.foreground": "#f2bad185",
+		"editorGutter.addedBackground": "#ff0000",
+		"editorLineNumber.foreground": "#f2bad154", // changed opacity
+		"editorLineNumber.activeForeground": "#DEF7EF",
+		"editorGroupHeader.tabsBackground": "#121212",
+		"extensionButton.prominentForeground": "#FFFFFF",
+		"extensionButton.prominentBackground": "#CF426F",
+		"input.border": "#F2BAD1",
+		"input.foreground": "#888CCC",
+		"input.placeholderForeground": "#AAAAAA",
+		// Opened file navigation tab
+		"tab.activeBackground": "#121212",
+		"tab.activeForeground": "#F2BAD1", //#f2bad154
+		"tab.activeBorder": "#F2BAD1",
+		"tab.inactiveBackground": "#121212",
+		"tab.inactiveForeground": "#888CCC",
+		"button.background": "#F2BAD1",
+		"button.hoverBackground": "#888CCC",
+		// Editor's scrollbar
+		"scrollbarSlider.background": "#A12C59",
+		"scrollbarSlider.activeBackground": "#F2BAD1",
+		"scrollbarSlider.hoverBackground": "#A12C59",
+		"dropdown.border": "#F2BAD1",
+		"dropdown.foreground": "#F2BAD1",
+		// Project files and folers listing
+		"list.errorForeground": "#9DDBD6",
+		"list.warningForeground": "#89DDFF",
+		"list.dropBackground": "#EFE8F0",
+		"list.hoverBackground": "#CF9FD3",
+		"list.hoverForeground": "#FFFFFF",
+		"list.focusBackground": "#b3fce5b0",
+		"list.focusForeground": "#FFFFFF",
+		"list.inactiveSelectionBackground": "#888CCC",
+		"list.inactiveSelectionForeground": "#FFFFFF",
+		"list.activeSelectionBackground": "#F2BAD1",
+		"list.activeSelectionForeground": "#FFF",
+		"list.filterMatchBackground": "#EFE8F0",
+		"listFilterWidget.background": "#EFE8F0",
+		// Icon sidebar
+		"activityBar.background": "#121212",
+		"activityBar.border": "#F2BAD1",
+		"activityBar.foreground": "#F2BAD1",
+		// Project listing bar
+		"sideBar.border": "#F2BAD1",
+		"sideBar.background": "#121212",
+		"sideBar.foreground": "#F2BAD1",
+		"sideBarSectionHeader.border": "#F2BAD1",
+		"sideBarSectionHeader.background": "#121212",
+		// Editor's bottom bar
+		"statusBar.background": "#121212",
+		"statusBar.noFolderBackground": "#888CCC",
+		"statusBar.debuggingBackground": "#318B8C",
+		"statusBarItem.activeBackground": "#F2BAD1",
 	},
 	"tokenColors": [
 		{
@@ -15,7 +79,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#53aaad78"
 			}
 		},
 		{
@@ -134,7 +198,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#A12C59"
 			}
 		},
 		{
@@ -149,7 +213,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#9dc17dd6"
 			}
 		},
 		{
