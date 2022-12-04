@@ -2,7 +2,7 @@
 	"name": "dragon fruit tree top house",
 	"colors": {
 		"editor.background": "#121212",
-		"editor.foreground": "#F2BAD1",
+		"editor.foreground": "#ece1e6",
 		"activityBarBadge.background": "#5EA01A",
 		"sideBarTitle.foreground": "#F2BAD1",
 		"editor.wordHighlightBackground": "#121212",
@@ -13,7 +13,7 @@
 		"editor.findMatchBorder": "#F2BAD1",
 		"editor.findMatchHighlightBorder": "#DEF7EF",
 		"editor.findMatchHighlightBackground": "#121212",
-		"editorBracketMatch.border": "#888CCC",
+		"editorBracketMatch.border": "#F2BAD1",
 		"editorWarning.foreground": "#FFDBA7",
 		"editorError.foreground": "#ff0000",
 		"editorCursor.foreground": "#f2bad185",
@@ -24,16 +24,16 @@
 		"extensionButton.prominentForeground": "#FFFFFF",
 		"extensionButton.prominentBackground": "#CF426F",
 		"input.border": "#F2BAD1",
-		"input.foreground": "#888CCC",
+		"input.foreground": "#F2BAD1",
 		"input.placeholderForeground": "#AAAAAA",
 		// Opened file navigation tab
 		"tab.activeBackground": "#121212",
 		"tab.activeForeground": "#F2BAD1", //#f2bad154
 		"tab.activeBorder": "#F2BAD1",
 		"tab.inactiveBackground": "#121212",
-		"tab.inactiveForeground": "#888CCC",
+		"tab.inactiveForeground": "#F2BAD1",
 		"button.background": "#F2BAD1",
-		"button.hoverBackground": "#888CCC",
+		"button.hoverBackground": "#F2BAD1",
 		// Editor's scrollbar
 		"scrollbarSlider.background": "#A12C59",
 		"scrollbarSlider.activeBackground": "#F2BAD1",
@@ -48,7 +48,7 @@
 		"list.hoverForeground": "#FFFFFF",
 		"list.focusBackground": "#b3fce5b0",
 		"list.focusForeground": "#FFFFFF",
-		"list.inactiveSelectionBackground": "#888CCC",
+		"list.inactiveSelectionBackground": "#F2BAD1",
 		"list.inactiveSelectionForeground": "#FFFFFF",
 		"list.activeSelectionBackground": "#F2BAD1",
 		"list.activeSelectionForeground": "#FFF",
@@ -66,7 +66,7 @@
 		"sideBarSectionHeader.background": "#121212",
 		// Editor's bottom bar
 		"statusBar.background": "#121212",
-		"statusBar.noFolderBackground": "#888CCC",
+		"statusBar.noFolderBackground": "#F2BAD1",
 		"statusBar.debuggingBackground": "#318B8C",
 		"statusBarItem.activeBackground": "#F2BAD1",
 	},
@@ -163,7 +163,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#f0a4c4"
 			}
 		},
 		{
