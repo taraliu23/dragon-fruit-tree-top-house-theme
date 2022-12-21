@@ -2,8 +2,8 @@
 	"name": "dragon fruit tree top house",
 	"colors": {
 		"editor.background": "#121212",
-		"editor.foreground": "#ece1e6",
-		"activityBarBadge.background": "#5EA01A",
+		"editor.foreground": "#F2BAD1", //#ece1e6
+		"activityBarBadge.background": "#A12C59", //#5EA01A
 		"sideBarTitle.foreground": "#F2BAD1",
 		"editor.wordHighlightBackground": "#121212",
 		"editor.wordHighlightBorder": "#DEF7EF",
@@ -14,12 +14,12 @@
 		"editor.findMatchHighlightBorder": "#DEF7EF",
 		"editor.findMatchHighlightBackground": "#121212",
 		"editorBracketMatch.border": "#F2BAD1",
-		"editorWarning.foreground": "#FFDBA7",
+		"editorWarning.foreground": "#A12C59",
 		"editorError.foreground": "#ff0000",
-		"editorCursor.foreground": "#f2bad185",
+		"editorCursor.foreground": "#A12C59",
 		"editorGutter.addedBackground": "#ff0000",
-		"editorLineNumber.foreground": "#f2bad154", // changed opacity
-		"editorLineNumber.activeForeground": "#DEF7EF",
+		"editorLineNumber.foreground": "#F2BAD1", // changed opacity
+		"editorLineNumber.activeForeground": "#FB2576",
 		"editorGroupHeader.tabsBackground": "#121212",
 		"extensionButton.prominentForeground": "#FFFFFF",
 		"extensionButton.prominentBackground": "#CF426F",
@@ -35,7 +35,7 @@
 		"button.background": "#F2BAD1",
 		"button.hoverBackground": "#F2BAD1",
 		// Editor's scrollbar
-		"scrollbarSlider.background": "#A12C59",
+		"scrollbarSlider.background": "#F2BAD1",
 		"scrollbarSlider.activeBackground": "#F2BAD1",
 		"scrollbarSlider.hoverBackground": "#A12C59",
 		"dropdown.border": "#F2BAD1",
@@ -43,15 +43,15 @@
 		// Project files and folers listing
 		"list.errorForeground": "#9DDBD6",
 		"list.warningForeground": "#89DDFF",
-		"list.dropBackground": "#EFE8F0",
-		"list.hoverBackground": "#CF9FD3",
-		"list.hoverForeground": "#FFFFFF",
+		"list.dropBackground": "#A12C59",
+		"list.hoverBackground": "#A6CF98", //#BCE29E
+		"list.hoverForeground": "#A12C59",
 		"list.focusBackground": "#b3fce5b0",
-		"list.focusForeground": "#FFFFFF",
+		"list.focusForeground": "#A12C59",
 		"list.inactiveSelectionBackground": "#F2BAD1",
-		"list.inactiveSelectionForeground": "#FFFFFF",
+		"list.inactiveSelectionForeground": "#A12C59",
 		"list.activeSelectionBackground": "#F2BAD1",
-		"list.activeSelectionForeground": "#FFF",
+		"list.activeSelectionForeground": "#A12C59",
 		"list.filterMatchBackground": "#EFE8F0",
 		"listFilterWidget.background": "#EFE8F0",
 		// Icon sidebar
@@ -79,7 +79,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#53aaad78"
+				"foreground": "#557C55"
 			}
 		},
 		{
@@ -119,7 +119,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#BCE29E" //#FB2576
 			}
 		},
 		{
@@ -139,7 +139,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#A0D995"
 			}
 		},
 		{
@@ -198,7 +198,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#A12C59"
+				"foreground": "#FB2576" //#FB2576
 			}
 		},
 		{
@@ -213,7 +213,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#9dc17dd6"
+				"foreground": "#86C8BC"
 			}
 		},
 		{
