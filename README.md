@@ -2,4 +2,12 @@
 
 My first VS Code extension because I like customization!
 
-Inspired by [fluffy dark theme](https://marketplace.visualstudio.com/items?itemName=ayakoSky.fluffy-dark-theme) and [woody theme](https://github.com/seahyx/Woody-Theme), I want to darker background color and more pink-ish, so here it is!
+Inspired by [fluffy dark theme](https://marketplace.visualstudio.com/items?itemName=ayakoSky.fluffy-dark-theme) and [woody theme](https://github.com/seahyx/Woody-Theme), I want a darker background and more pink-and-green-ish colors, so here it is!
+
+## helpful resources
+
+[a video tutorial](https://www.youtube.com/watch?v=m6S4NSZkB88&ab_channel=Classsed)
+
+[how to publish extensions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+
+[a color palatte](https://colorhunt.co/)
