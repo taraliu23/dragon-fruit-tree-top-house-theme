@@ -2,7 +2,7 @@
 	"name": "dragon fruit tree top house",
 	"colors": {
 		"editor.background": "#121212",
-		"editor.foreground": "#F2BAD1", //#ece1e6
+		"editor.foreground": "#f6f6f6", //#ece1e6
 		"activityBarBadge.background": "#A12C59", //#5EA01A
 		"sideBarTitle.foreground": "#F2BAD1",
 		"editor.wordHighlightBackground": "#121212",
@@ -119,7 +119,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#BCE29E" //#FB2576
+				"foreground": "#067363" //#FB2576
 			}
 		},
 		{
@@ -139,7 +139,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#A0D995"
+				"foreground": "#97C4B8"
 			}
 		},
 		{
@@ -163,7 +163,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#f0a4c4"
+				"foreground": "#FF9E9E"
 			}
 		},
 		{
@@ -213,7 +213,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#86C8BC"
+				"foreground": "#B6C867" //#86C8BC
 			}
 		},
 		{
@@ -252,7 +252,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#FF5B00" //#B2CCD6
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#2A0944"
 			}
 		},
 		{
@@ -426,7 +426,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#EDE4E0"
 			}
 		},
 		{
