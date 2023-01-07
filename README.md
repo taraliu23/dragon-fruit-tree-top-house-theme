@@ -11,3 +11,12 @@ Inspired by [fluffy dark theme](https://marketplace.visualstudio.com/items?itemN
 [how to publish extensions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
 
 [a color palatte](https://colorhunt.co/)
+
+## todo list of version 2.0
+
+- 选择的颜色没有高亮
+- not条件判断对比不明显（现在是浅粉色换成其他颜色）
+- 查找没有高亮
+- 注释颜色有点白和不明显（透明度问题）
+- 白色的字换成其他颜色的
+- hover file list看不清
