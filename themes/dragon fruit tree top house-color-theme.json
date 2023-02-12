@@ -44,7 +44,7 @@
 		"list.errorForeground": "#9DDBD6",
 		"list.warningForeground": "#89DDFF",
 		"list.dropBackground": "#A12C59",
-		"list.hoverBackground": "#A6CF98", //#BCE29E
+		"list.hoverBackground": "#a6cf9805", //#BCE29E
 		"list.hoverForeground": "#A12C59",
 		"list.focusBackground": "#b3fce5b0",
 		"list.focusForeground": "#A12C59",
@@ -65,7 +65,7 @@
 		"sideBarSectionHeader.border": "#F2BAD1",
 		"sideBarSectionHeader.background": "#121212",
 		// Editor's bottom bar
-		"statusBar.background": "#121212",
+		"statusBar.background": "#A12C59",
 		"statusBar.noFolderBackground": "#F2BAD1",
 		"statusBar.debuggingBackground": "#318B8C",
 		"statusBarItem.activeBackground": "#F2BAD1",
