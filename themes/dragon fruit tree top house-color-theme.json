@@ -1,36 +1,35 @@
 {
 	"name": "dragon fruit tree top house",
 	"colors": {
-		"editor.background": "#121212",
-		"editor.foreground": "#f6f6f6", //#ece1e6
+		"editor.background": "#212121", //212121
+		"editor.foreground": "#f6f6f6", //#ece1e6, 
 		"activityBarBadge.background": "#A12C59", //#5EA01A
 		"sideBarTitle.foreground": "#F2BAD1",
-		"editor.wordHighlightBackground": "#121212",
-		"editor.wordHighlightBorder": "#DEF7EF",
+		"editor.wordHighlightBorder": "#3ccc9e",
 		"editor.wordHighlightStrongBorder": "#F2BAD1",
-		"editor.wordHighlightStrongBackground": "#121212",
-		"editor.findMatchBackground": "#121212",
+		"editor.wordHighlightStrongBackground": "#212121",
+		"editor.findMatchBackground": "#212121",
 		"editor.findMatchBorder": "#F2BAD1",
-		"editor.findMatchHighlightBorder": "#DEF7EF",
-		"editor.findMatchHighlightBackground": "#121212",
+		"editor.findMatchHighlightBorder": "#FB2576", //DEF7EF
+		"editor.findMatchHighlightBackground": "#a12c594c", //212121
 		"editorBracketMatch.border": "#F2BAD1",
 		"editorWarning.foreground": "#A12C59",
 		"editorError.foreground": "#ff0000",
 		"editorCursor.foreground": "#A12C59",
 		"editorGutter.addedBackground": "#ff0000",
-		"editorLineNumber.foreground": "#F2BAD1",
+		"editorLineNumber.foreground": "#f2bad1b4",
 		"editorLineNumber.activeForeground": "#FB2576",
-		"editorGroupHeader.tabsBackground": "#121212",
+		"editorGroupHeader.tabsBackground": "#212121",
 		"extensionButton.prominentForeground": "#FFFFFF",
 		"extensionButton.prominentBackground": "#CF426F",
 		"input.border": "#F2BAD1",
 		"input.foreground": "#F2BAD1",
 		"input.placeholderForeground": "#AAAAAA",
 		// Opened file navigation tab
-		"tab.activeBackground": "#121212",
+		"tab.activeBackground": "#212121",
 		"tab.activeForeground": "#F2BAD1",
 		"tab.activeBorder": "#F2BAD1",
-		"tab.inactiveBackground": "#121212",
+		"tab.inactiveBackground": "#212121",
 		"tab.inactiveForeground": "#F2BAD1",
 		"button.background": "#F2BAD1",
 		"button.hoverBackground": "#F2BAD1",
@@ -55,15 +54,15 @@
 		"list.filterMatchBackground": "#EFE8F0",
 		"listFilterWidget.background": "#EFE8F0",
 		// Icon sidebar
-		"activityBar.background": "#121212",
+		"activityBar.background": "#212121",
 		"activityBar.border": "#F2BAD1",
 		"activityBar.foreground": "#F2BAD1",
 		// Project listing bar
 		"sideBar.border": "#F2BAD1",
-		"sideBar.background": "#121212",
+		"sideBar.background": "#212121",
 		"sideBar.foreground": "#F2BAD1",
 		"sideBarSectionHeader.border": "#F2BAD1",
-		"sideBarSectionHeader.background": "#121212",
+		"sideBarSectionHeader.background": "#212121",
 		// Editor's bottom bar
 		"statusBar.background": "#A12C59",
 		"statusBar.noFolderBackground": "#F2BAD1",
@@ -105,8 +104,8 @@
 				"comment"
 			],
 			"settings": {
-				"foreground": "#678983",
-				"fontStyle": "italic underline "
+				"foreground": "#a387fedf", //689890,7DB9B6,60b5a6
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -285,7 +284,7 @@
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#4EC9B0"
+				"foreground": "#4fdce6" //
 			}
 		},
 		{
@@ -365,7 +364,7 @@
 				"keyword.operator.logical.python"
 			],
 			"settings": {
-				"foreground": "#F2BAD1"
+				"foreground": "#7fc1fa" //FF7B54,A6D1E6,0081C9
 			}
 		},
 		{
@@ -477,7 +476,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#4EC9B0"
+				"foreground": "#4fdce6"
 			}
 		},
 		{
