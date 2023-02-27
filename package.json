@@ -2,7 +2,7 @@
   "name": "dragon-fruit-tree-top-house",
   "displayName": "火龙果树屋",
   "description": "A dark theme with pink and green colors",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.73.0"
   },
