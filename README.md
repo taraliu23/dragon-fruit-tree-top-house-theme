@@ -18,11 +18,12 @@ Inspired by [fluffy dark theme](https://marketplace.visualstudio.com/items?itemN
 
 fix to increase contrast and readability: 
 
-- changed selected word highlight color (in editor.wordHighlightBorder and editor.wordHighlightBackground)
-- changed python logical operator color (in keyword.operator.logical.python.foreground)
-- changed the finder background (in editor.findMatchHighlightBackground)
-- changed the comment color and font
-- changed transparency in hover file list
-- changed editor.background and other 11 black color, from #121212 to #212121
+1. changed selected word highlight color (in editor.wordHighlightBorder and editor.wordHighlightBackground)
+2. changed python logical operator color (in keyword.operator.logical.python.foreground)
+3. changed the finder background (in editor.findMatchHighlightBackground)
+4. changed the comment color and font
+5. changed transparency in hover file list
+6. changed editor.background and other 11 black color, from #121212 to #212121
 
 ## here's a cute preview of version 0.0.3
+![preview](https://user-images.githubusercontent.com/80751447/221561455-c43195a3-5777-45fa-ad00-a08db73626fe.jpeg)
