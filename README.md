@@ -24,3 +24,5 @@ fix to increase contrast and readability:
 - changed the comment color and font
 - changed transparency in hover file list
 - changed editor.background and other 11 black color, from #121212 to #212121
+
+## here's a cute preview of version 0.0.3
