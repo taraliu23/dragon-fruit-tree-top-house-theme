@@ -5,6 +5,7 @@
 		"editor.foreground": "#f6f6f6", //#ece1e6, 
 		"activityBarBadge.background": "#A12C59", //#5EA01A
 		"sideBarTitle.foreground": "#F2BAD1",
+		"editor.wordHighlightBackground": "#a12c59e7", //old:212121, now:80%A12C59
 		"editor.wordHighlightBorder": "#3ccc9e",
 		"editor.wordHighlightStrongBorder": "#F2BAD1",
 		"editor.wordHighlightStrongBackground": "#212121",
