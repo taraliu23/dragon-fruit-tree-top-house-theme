@@ -27,3 +27,8 @@ fix to increase contrast and readability:
 
 ## here's a cute preview of version 2.0.0
 ![preview](https://user-images.githubusercontent.com/80751447/221561455-c43195a3-5777-45fa-ad00-a08db73626fe.jpeg)
+
+## todos in version 2.1.3(because I like this number):
+
+1. def 斜体🤔
+2. 注释颜色更加色弱友好一些！
