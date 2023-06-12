@@ -105,7 +105,7 @@
 				"comment"
 			],
 			"settings": {
-				"foreground": "#a387fedf", //689890,7DB9B6,60b5a6
+				"foreground": "#648FFF", //#785EF0,a387fedf,689890,7DB9B6,60b5a6
 				"fontStyle": "italic"
 			}
 		},
@@ -477,7 +477,8 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#4fdce6"
+				"foreground": "#4fdce6",
+				"fontStyle": "italic bold"
 			}
 		},
 		{
