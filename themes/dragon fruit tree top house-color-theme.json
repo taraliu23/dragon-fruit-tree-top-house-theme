@@ -366,7 +366,7 @@
 				"keyword.operator.logical.python"
 			],
 			"settings": {
-				"foreground": "#0C7BDC", //#E66100,#7fc1fa,FF7B54,A6D1E6,0081C9
+				"foreground": "#E66100", //#C0C7BD,#7fc1fa,FF7B54,A6D1E6,0081C9
 				"fontStyle": "bold"
 			}
 		},

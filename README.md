@@ -1,4 +1,5 @@
 # README
+![A quick preview](preview<3/preview213.png)
 
 My first VS Code extension because I like customization!
 
@@ -14,6 +15,9 @@ Inspired by [fluffy dark theme](https://marketplace.visualstudio.com/items?itemN
 
 [a color palatte generator](https://colors.muz.li/)
 
+[color blind friendly](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40)
+
+
 ## updates in version 2.0.0:
 
 fix to increase contrast and readability: 
@@ -28,7 +32,5 @@ fix to increase contrast and readability:
 ## here's a cute preview of version 2.0.0
 ![preview](https://user-images.githubusercontent.com/80751447/221561455-c43195a3-5777-45fa-ad00-a08db73626fe.jpeg)
 
-## todos in version 2.1.3(because I like this number):
-
-1. def 斜体🤔
-2. 注释颜色更加色弱友好一些！
+## updates version 2.1.3(because I like this number):
+color blind friendly changes, comment color, tab highlight, storage.type
