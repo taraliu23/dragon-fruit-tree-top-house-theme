@@ -1,11 +1,23 @@
 # README
+
+<p align="center" width="100%">
+    <img width="33%" src="icon.png"> 
+</p>
+
+**A dark, pink-and-green-ish VS Code color theme extension.**
+
+Preview:
+
 ![A quick preview](preview<3/preview213.png)
 
-My first VS Code extension because I like customization!
+How to use:
 
-Inspired by [fluffy dark theme](https://marketplace.visualstudio.com/items?itemName=ayakoSky.fluffy-dark-theme) and [woody theme](https://github.com/seahyx/Woody-Theme), I want a darker background and more pink-and-green-ish colors, so here it is!
+1. **(easiest)** search "火龙果"/ "dragon fruit" in vscode extension, and install, and enjoy coding with cute colors!
+2. open [marketplace link](https://marketplace.visualstudio.com/items?itemName=drunken-boat.dragon-fruit-tree-top-house) and install.
+
 
 ## helpful resources
+Inspired by [fluffy dark theme](https://marketplace.visualstudio.com/items?itemName=ayakoSky.fluffy-dark-theme) and [woody theme](https://github.com/seahyx/Woody-Theme).
 
 [a video tutorial](https://www.youtube.com/watch?v=m6S4NSZkB88&ab_channel=Classsed)
 
